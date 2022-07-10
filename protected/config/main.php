@@ -82,9 +82,9 @@ return array(
 	'params'=>array(
 		// this is used in contact page
 		'adminEmail'=>'webmaster@example.com',
-		'midtrans-serverkey'=>"SB-Mid-server-WBKwOrBrLCAcoi70VFsYZjzB",
-		'midtrans-client-key'=>"SB-Mid-client-72btz4bIORmA4G95",
-		'google-clientID' => '419198753031-lnc4736nead350kjufd6p3dncnr0bniu.apps.googleusercontent.com',
-		'google-clientSecret' => 'kMkpnYQMmSnqnBCKQQ63PMek'
+		'midtrans-serverkey'=>"<your server code>",
+		'midtrans-client-key'=>"<your client code>",
+		'google-clientID' => '<google client id>',
+		'google-clientSecret' => '<google client secret>'
 	),
 );
